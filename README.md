@@ -1,4 +1,4 @@
-# ZestAssignment
+# ZestAssignment on Facebook posting a status message "Hello World" 
 
  1. com.zest.constants: contains all the xpath details.
  
@@ -9,6 +9,8 @@
  4. com.zest.functional.test contains test method and TestNG assertions.
  
       *******************************************************
+      
+      
  
  Certian things are there which I think it's better to called out before reviewing. It includes:
  1. Facebook details like User and password are dummy.
