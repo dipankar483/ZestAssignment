@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28097" started-at="2020-03-16T11:20:48 IST" finished-at="2020-03-16T11:21:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28097" started-at="2020-03-16T11:20:48 IST" finished-at="2020-03-16T11:21:16 IST">
+      <class name="com.zest.functional.test.PriceComparisonTest">
+        <test-method status="PASS" signature="TestNGAssert_VerifyLowerPrice()[pri:0, instance:com.zest.functional.test.PriceComparisonTest@5a8806ef]" name="TestNGAssert_VerifyLowerPrice" duration-ms="28051" started-at="2020-03-16T11:20:48 IST" finished-at="2020-03-16T11:21:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNGAssert_VerifyLowerPrice -->
+      </class> <!-- com.zest.functional.test.PriceComparisonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
